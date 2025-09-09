@@ -43,4 +43,4 @@ Future plans:
 
 ## 🤝 Connect  
 - GitHub: [@Tsimpliarakis](https://github.com/Tsimpliarakis)  
-- More links coming soon…(?)  
+- Instagram: [@m.tsimpliarakis](https://www.instagram.com/m.tsimpliarakis/)  
