@@ -10,7 +10,7 @@ I'm a computer science graduate from Greece 🇬🇷, currently based in Germany
 - 💻 Interested in **Cybersecurity**, **Networking**, **System Administration**, and **Quantum Computing**  
 - 📚 Currently learning **German** (aiming for B2) and working on **CompTIA Security+**  
 - 🏋️ Focused on self-improvement: studying, fitness, and productivity  
-- 🌱 Vegan for me, my earth and the animals 
+- 🌱 Vegan for me, my earth and the animals  
 
 ---
 
@@ -26,16 +26,17 @@ Future plans:
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python, Bash, JavaScript, C/C++ (baby knowledge)
+- **Languages:** Python, Bash, JavaScript, C/C++ (baby knowledge)  
 - **Web:** Vue.js, Node.js, Nuxt (exploring)  
-- **Tools:** Windows, Linux, Git, Docker, ...
+- **Tools:** Windows, Linux, Git, Docker, ...  
 - **Cloud:** Open to learning AWS / Azure in depth  
 
 ---
 
-## 📈 Interests Beyond Code
-- 💻 **Technology** - It's not all about software, hardware is also very cool
+## 📈 Interests Beyond Code  
+- 💻 **Technology** – It's not all about software, hardware is also very cool  
 - 📊 **Investing** – Currently in S&P 500 ETFs, learning more about markets  
+- 📸 **Mobile Photography** – Capturing everyday life and moments  
 - 🗣️ **Languages** – Greek (native), English (fluent), German (learning)  
 - 🏊 **Sports** – Walking, home workouts and trying to not hate the gym  
 
