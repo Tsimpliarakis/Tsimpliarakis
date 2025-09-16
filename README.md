@@ -15,8 +15,9 @@ I'm a computer science graduate from Greece 🇬🇷, currently based in Germany
 ---
 
 ## 🚀 Projects  
-Pinned project:  
-- **[Pentizer](https://github.com/Tsimpliarakis/Pentizer)** – Tool to transform a Linux distro into a hacking environment.  
+Pinned projects:  
+- **[Pentizer](https://github.com/Tsimpliarakis/Pentizer)** – Tool to transform a Linux distro into a hacking environment.
+- **[German Cheat Sheet](https://github.com/Tsimpliarakis/German-Cheat-Sheet)** - |- German language notes -|- Von Anfänger bis B2 -|
 
 Future plans:  
 - Build small but useful apps (web, scripts, automation)  
