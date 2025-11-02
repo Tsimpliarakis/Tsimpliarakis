@@ -7,17 +7,17 @@ I'm a computer science graduate from Greece 🇬🇷, currently based in Germany
 
 ## 🌍 About Me  
 - 🎓 Studied **Computer Science** in Greece  
-- 💻 Interested in **Cybersecurity**, **Networking**, **System Administration**, and **Quantum Computing**  
-- 📚 Currently learning **German** (aiming for B2) and working on **CompTIA Security+**  
+- 💻 Interested in **Cybersecurity**, **Networking** and **System Administration**
+- 📚 Currently learning **German** (current level: B1) and working on **CompTIA Security+**  
 - 🏋️ Focused on self-improvement: studying, fitness, and productivity  
-- 🌱 Vegan for me, my earth and the animals  
+- 🌱 Vegan for me, the earth and the animals  
 
 ---
 
 ## 🚀 Projects  
 Pinned projects:  
 - **[Pentizer](https://github.com/Tsimpliarakis/Pentizer)** – Tool to transform a Linux distro into a hacking environment.
-- **[German Cheat Sheet](https://github.com/Tsimpliarakis/German-Cheat-Sheet)** – |- German language notes -|- Von Anfänger bis B2 -|
+- **[German Cheat Sheet](https://github.com/Tsimpliarakis/German-Cheat-Sheet)** – |- German language notes -|
 
 Future plans:  
 - Build small but useful apps (web, scripts, automation)  
